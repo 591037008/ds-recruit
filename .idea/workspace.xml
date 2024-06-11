@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="928c5b25-b87f-476b-9a09-b6ab56ebb238" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/php/composer.json</pharConfigPath>
+    <execution>
+      <interpreter composer="composer" />
+    </execution>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.4" />
+  <component name="ProjectId" id="2hj7HBmsm5C9FZVi9bvjdvQ2jhy" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/phpstudy_pro/WWW/ds-recruit-main/Src",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "reference.webide.settings.project.settings.php",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\phpstudy_pro\WWW\ds-recruit-main\Src" />
+      <recent name="D:\phpstudy_pro\WWW\ds-recruit-main\App" />
+      <recent name="D:\phpstudy_pro\WWW\ds-recruit-main\php\tests\Src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="PHPUnit.MyGreeterTest.test_greeting">
+    <configuration name="MyGreeterTest (1)" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner class="Tests\Src\MyGreeterTest" file="$PROJECT_DIR$/php/Tests/Src/MyGreeterTest.php" scope="Class" />
+      <method v="2" />
+    </configuration>
+    <configuration name="MyGreeterTest (3)" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner class="Src\MyGreeterTest" file="$PROJECT_DIR$/tests/Src/MyGreeterTest.php" scope="Class" />
+      <method v="2" />
+    </configuration>
+    <configuration name="MyGreeterTest" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner class="MyGreeterTest" file="$PROJECT_DIR$/tests/MyGreeterTest.php" scope="Class" />
+      <method v="2" />
+    </configuration>
+    <configuration name="MyGreeterTest.test_greeting" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner class="Src\MyGreeterTest" file="$PROJECT_DIR$/tests/Src/MyGreeterTest.php" method="test_greeting" scope="Method" />
+      <method v="2" />
+    </configuration>
+    <configuration name="MyGreeterTest.test_init (1)" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner class="Src\MyGreeterTest" file="$PROJECT_DIR$/tests/Src/MyGreeterTest.php" method="test_init" scope="Method" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="PHPUnit.MyGreeterTest.test_greeting" />
+        <item itemvalue="PHPUnit.MyGreeterTest.test_init (1)" />
+        <item itemvalue="PHPUnit.MyGreeterTest (3)" />
+        <item itemvalue="PHPUnit.MyGreeterTest" />
+        <item itemvalue="PHPUnit.MyGreeterTest (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="928c5b25-b87f-476b-9a09-b6ab56ebb238" name="Changes" comment="" />
+      <created>1718095542592</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1718095542592</updated>
+      <workItem from="1718095546928" duration="1979000" />
+      <workItem from="1718097552166" duration="1862000" />
+      <workItem from="1718099463873" duration="335000" />
+      <workItem from="1718099840227" duration="431000" />
+      <workItem from="1718101162115" duration="927000" />
+      <workItem from="1718103334727" duration="343000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
